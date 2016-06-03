@@ -16,3 +16,11 @@ Now edit the `#run` method in [player.rb](player.rb) and save it. Afterwards, te
 ```bash
 kill -s SIGUSR2 <PID>
 ```
+
+# Try it out!
+
+Just clone it and cd to the signals directory
+
+```bash
+git clone git@github.com:ridiculous/signals.git
+```
