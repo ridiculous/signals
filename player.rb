@@ -1,6 +1,6 @@
 class Player
   def run
-    puts "Running! Check my PID: #{$$}"
+    puts "Running! See my PID: #{$$}"
   end
 end
 
